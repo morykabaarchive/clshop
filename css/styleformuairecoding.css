@@ -1,0 +1,49 @@
+body{ background-image: url('img/font.jpg');   
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+#formulaire {
+    width: 510px;
+    background-color: rgb(118, 109, 156);
+    padding: 20px;
+    font-size: 1.em;
+    margin: auto;
+  
+    text-align: center;
+    
+}
+#filiation a{
+    color: greenyellow;
+   
+    padding-top: 10px;
+}
+#sexe{
+    display: flex;
+}
+#region{
+    /* padding-left: -40%; */
+    float: left;
+}
+#status{
+    display: flex;
+
+}
+#formulaire h2{
+    text-align: center;
+    text-transform: uppercase;
+    color: rgb(231, 16, 16);
+}
+#formulaire input{
+    width: 500px;
+    height: 30px;
+}
+#formulaire button{
+    font-size: 1.3em;
+    background-color: rgb(0, 0, 10);
+    color: rgb(18, 221, 86);
+    border-radius: 10px;
+    margin: 0px 180px;
+
+
+}
